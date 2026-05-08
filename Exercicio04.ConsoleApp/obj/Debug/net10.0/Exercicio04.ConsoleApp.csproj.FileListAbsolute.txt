@@ -1,0 +1,14 @@
+C:\AcademiaDoProgramador\c#\ListaDeExerciciosObjetos\Exercicio04.ConsoleApp\bin\Debug\net10.0\Exercicio04.ConsoleApp.exe
+C:\AcademiaDoProgramador\c#\ListaDeExerciciosObjetos\Exercicio04.ConsoleApp\bin\Debug\net10.0\Exercicio04.ConsoleApp.deps.json
+C:\AcademiaDoProgramador\c#\ListaDeExerciciosObjetos\Exercicio04.ConsoleApp\bin\Debug\net10.0\Exercicio04.ConsoleApp.runtimeconfig.json
+C:\AcademiaDoProgramador\c#\ListaDeExerciciosObjetos\Exercicio04.ConsoleApp\bin\Debug\net10.0\Exercicio04.ConsoleApp.dll
+C:\AcademiaDoProgramador\c#\ListaDeExerciciosObjetos\Exercicio04.ConsoleApp\bin\Debug\net10.0\Exercicio04.ConsoleApp.pdb
+C:\AcademiaDoProgramador\c#\ListaDeExerciciosObjetos\Exercicio04.ConsoleApp\obj\Debug\net10.0\Exercicio04.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\AcademiaDoProgramador\c#\ListaDeExerciciosObjetos\Exercicio04.ConsoleApp\obj\Debug\net10.0\Exercicio04.ConsoleApp.AssemblyInfoInputs.cache
+C:\AcademiaDoProgramador\c#\ListaDeExerciciosObjetos\Exercicio04.ConsoleApp\obj\Debug\net10.0\Exercicio04.ConsoleApp.AssemblyInfo.cs
+C:\AcademiaDoProgramador\c#\ListaDeExerciciosObjetos\Exercicio04.ConsoleApp\obj\Debug\net10.0\Exercicio04.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\AcademiaDoProgramador\c#\ListaDeExerciciosObjetos\Exercicio04.ConsoleApp\obj\Debug\net10.0\Exercicio04.ConsoleApp.dll
+C:\AcademiaDoProgramador\c#\ListaDeExerciciosObjetos\Exercicio04.ConsoleApp\obj\Debug\net10.0\refint\Exercicio04.ConsoleApp.dll
+C:\AcademiaDoProgramador\c#\ListaDeExerciciosObjetos\Exercicio04.ConsoleApp\obj\Debug\net10.0\Exercicio04.ConsoleApp.pdb
+C:\AcademiaDoProgramador\c#\ListaDeExerciciosObjetos\Exercicio04.ConsoleApp\obj\Debug\net10.0\Exercicio04.ConsoleApp.genruntimeconfig.cache
+C:\AcademiaDoProgramador\c#\ListaDeExerciciosObjetos\Exercicio04.ConsoleApp\obj\Debug\net10.0\ref\Exercicio04.ConsoleApp.dll
